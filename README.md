@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:00ff88,100:0d1117&height=200&section=header&text=Bhargav%20Hegde&fontSize=60&fontColor=00ff88&animation=fadeIn&fontAlignY=55&desc=Design%20Verification%20Engineer&descAlignY=75&descSize=18&descColor=8b949e"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:00ff88,100:0d1117&height=200&section=header&text=Bhargav%20Hegde&fontSize=60&fontColor=39FF14&animation=fadeIn&fontAlignY=55&desc=Design%20Verification%20Engineer&descAlignY=75&descSize=18&descColor=0a0e1a"/>
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&multiline=false&width=700&lines=RTL+Verification+%7C+UVM+%7C+SystemVerilog;RISC-V+Processor+Verification;AXI+%7C+AHB+%7C+UART+%7C+SPI+%7C+I2C;Coverage-Driven+%7C+Assertion-Based+Verification" alt="Typing SVG" /></a>
